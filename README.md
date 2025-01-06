@@ -25,9 +25,3 @@ This user is named Eleanor and goes by the tag Exator911. The following is a mes
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> [!NOTE]
-> Project's in the work's that arent ready for the public:
-> - [ ] `Process - Command line tool`
-
